@@ -1,0 +1,21 @@
+{
+  "name": "teamwork",
+  "version": "1.0.0",
+  "description": "An end to end flow for Teamwork",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murphya14/teamwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murphya14/teamwork/issues"
+  },
+  "homepage": "https://github.com/murphya14/teamwork#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.19.2"
+  }
+}
